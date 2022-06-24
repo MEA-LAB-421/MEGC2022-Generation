@@ -15,8 +15,20 @@
 - [2022/06/23] Create repository, upload code.
 
 ## 3. Results in GIF
-| No.  |   Source Samples      |        Target Template Face      |       OurMX  |
-| :--: | :--------------    -: | :------------------------------: | :----------: |
-|  1   |   | | |
-|  2   |   | | |
-|  3   |   | | |
+| No.  |   Source Samples      |        Target Template Face      |       Our    |
+| :--: | :-------------------: | :------------------------------: | :----------: |
+|  1   |  ……                   | ……                               | ……           |
+|  2   |  ……                   | ……                               | ……           |
+|  3   |  ……                   | ……                               | ……           |
+
+## 4. Run the code
+……
+
+## 5. Additional Resources
+……
+
+## 6. License
+[MIT](https://github.com/Necolizer/Facial-Prior-Based-FOMM/blob/main/LICENSE)
+
+## 7. Citation
+……
