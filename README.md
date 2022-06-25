@@ -11,7 +11,7 @@ And this work refers to [Thin-Plate-Spline-Motion-Model](https://github.com/yoyo
 * [6. Citation](#6-citation)
 
 ## 1. Authors & Maintainers
-……
+Sirui et al.
 
 ## 2. Quantitative Results
 <img src="./sup-mat/上传1-Quantitative Results.png">
