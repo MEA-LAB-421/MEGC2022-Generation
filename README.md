@@ -35,18 +35,4 @@ the results of corresponding generation are listed below as gif.
 [MIT](https://github.com/Necolizer/Facial-Prior-Based-FOMM/blob/main/LICENSE)
 
 ## 6. Citation
-If you find this work or code helpful in your research, please consider citing:
 
-```
-@misc{https://doi.org/10.48550/arxiv.2203.14367,
-  doi = {10.48550/ARXIV.2203.14367},
-  url = {https://arxiv.org/abs/2203.14367},
-  author = {Zhao, Jian and Zhang, Hui},
-  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {Thin-Plate Spline Motion Model for Image Animation},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {Creative Commons Attribution 4.0 International}
-}
-
-```
