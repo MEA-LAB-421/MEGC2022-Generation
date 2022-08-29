@@ -1,6 +1,6 @@
 This repository contains the source code for the MEGC2022 with paper: Fine-grained Micro-Expression Generation based on Thin-Plate Spline and Relative AU Constraint 
 
-And this work refers to [Thin-Plate-Spline-Motion-Model](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model).
+And this work encouraged by [Thin-Plate-Spline-Motion-Model](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model).
 
 ## 0. Table of Contents
 * [1. Authors & Maintainers](#1-authors---maintainers)
@@ -35,4 +35,4 @@ the results of corresponding generation are listed below as gif.
 [MIT](https://github.com/Necolizer/Facial-Prior-Based-FOMM/blob/main/LICENSE)
 
 ## 6. Citation
-
+Sirui Zhao, Shukang Yin, Huaying Tang, Jin Rijin, Yifan Xu, Tong Xu*, Enhong Chen, Fine-grained Micro-Expression Generation based on Thin-Plate Spline and Relative AU Constraint, In Proceedings of the 30th ACM International Conference on Multimedia (ACM MM'22), Lisbon, Portugal, 2022, Accepted，DOI: 10.1145/3503161.3551597.
